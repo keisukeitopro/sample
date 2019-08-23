@@ -1,8 +1,15 @@
 def hello
-  p "hello, GitHub."
+  p "hello, GitHub Desktop."
 end
 
 hello
+
+# 👇③
+# def hello
+#   p "hello, GitHub."
+# end
+
+# hello
 
 # 👇②
 # def hello
